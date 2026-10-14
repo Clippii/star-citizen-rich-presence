@@ -1,0 +1,19 @@
+{
+  "game_version": "4.10.2-LIVE.12881860",
+  "retrieved_on": "2026-10-14",
+  "source": "https://api.star-citizen.wiki/api",
+  "source_location_rows": 2033,
+  "unique_source_locations": 1984,
+  "catalogued_locations": 1953,
+  "source_vehicle_rows": 310,
+  "catalogued_vehicles": 310,
+  "skipped_ambiguous_aliases": 375,
+  "aliases": 18322,
+  "systems": {
+    "Stanton": 923,
+    "Pyro": 582,
+    "Nyx": 448
+  },
+  "facts_sha256": "e868862aec015ca26927dd57694145c205951ce1ffbd000feb072fb9a6eee31c",
+  "notes": "Versioned extracted game data plus explicit log aliases. No descriptions or imagery. Data may contain hidden or unreleased records; recognition is not a claim that every entry is currently visitable. Shared unqualified names are omitted."
+}

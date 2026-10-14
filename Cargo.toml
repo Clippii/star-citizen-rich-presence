@@ -1,0 +1,29 @@
+[package]
+name = "star-citizen-rich-presence"
+version = "2.1.0"
+edition = "2024"
+rust-version = "1.95"
+description = "Read-only, log-driven Discord Rich Presence for Star Citizen"
+license = "MIT"
+repository = "https://github.com/Clippii/star-citizen-rich-presence"
+
+[dependencies]
+anyhow = "1"
+chrono = { version = "0.4", default-features = false, features = ["std", "clock"] }
+clap = { version = "4", features = ["derive", "env"] }
+ctrlc = "3"
+regex = "1"
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+sysinfo = "0.39"
+toml = "1.1"
+
+[target.'cfg(windows)'.dependencies]
+windows-sys = { version = "0.61", features = ["Win32_System_Pipes", "Win32_Foundation", "Win32_Security", "Win32_Storage_FileSystem", "Win32_System_IO"] }
+
+[dev-dependencies]
+tempfile = "3"
+
+[profile.release]
+lto = "thin"
+strip = true

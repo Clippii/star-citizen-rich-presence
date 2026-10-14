@@ -1,0 +1,1242 @@
+[
+  {
+    "name": "Aegis Avenger Stalker",
+    "class_name": "AEGS_Avenger_Stalker"
+  },
+  {
+    "name": "Aegis Avenger Stalker",
+    "class_name": "AEGS_Avenger_Stalker_Display"
+  },
+  {
+    "name": "Aegis Avenger Titan",
+    "class_name": "AEGS_Avenger_Titan"
+  },
+  {
+    "name": "Aegis Avenger Titan Renegade",
+    "class_name": "AEGS_Avenger_Titan_Renegade"
+  },
+  {
+    "name": "Aegis Avenger Warlock",
+    "class_name": "AEGS_Avenger_Warlock"
+  },
+  {
+    "name": "Aegis Eclipse",
+    "class_name": "AEGS_Eclipse"
+  },
+  {
+    "name": "Aegis Eclipse",
+    "class_name": "AEGS_Eclipse_BIS2950"
+  },
+  {
+    "name": "Aegis Gladius",
+    "class_name": "AEGS_Gladius"
+  },
+  {
+    "name": "Aegis Gladius Pirate",
+    "class_name": "AEGS_Gladius_PIR"
+  },
+  {
+    "name": "Aegis Gladius Valiant",
+    "class_name": "AEGS_Gladius_Valiant"
+  },
+  {
+    "name": "Aegis Hammerhead",
+    "class_name": "AEGS_Hammerhead"
+  },
+  {
+    "name": "Aegis Hammerhead",
+    "class_name": "AEGS_Hammerhead_GS"
+  },
+  {
+    "name": "Aegis Hammerhead 2949 Best In Show Edition",
+    "class_name": "AEGS_Hammerhead_Showdown"
+  },
+  {
+    "name": "Aegis Idris-M",
+    "class_name": "AEGS_Idris_M"
+  },
+  {
+    "name": "Aegis Idris-P",
+    "class_name": "AEGS_Idris_P"
+  },
+  {
+    "name": "Aegis Idris-P Wikelo War Special",
+    "class_name": "AEGS_Idris_P_Collector_Military"
+  },
+  {
+    "name": "Aegis Idris-P",
+    "class_name": "AEGS_Idris_P_FW_25"
+  },
+  {
+    "name": "Aegis Idris-P",
+    "class_name": "AEGS_Idris_P_TSG"
+  },
+  {
+    "name": "Aegis Javelin",
+    "class_name": "AEGS_Javelin"
+  },
+  {
+    "name": "Aegis Reclaimer",
+    "class_name": "AEGS_Reclaimer"
+  },
+  {
+    "name": "Aegis Reclaimer 2949 Best In Show Edition",
+    "class_name": "AEGS_Reclaimer_Showdown"
+  },
+  {
+    "name": "Aegis Redeemer",
+    "class_name": "AEGS_Redeemer"
+  },
+  {
+    "name": "Aegis Retaliator",
+    "class_name": "AEGS_Retaliator"
+  },
+  {
+    "name": "Aegis Sabre",
+    "class_name": "AEGS_Sabre"
+  },
+  {
+    "name": "Aegis Sabre Comet",
+    "class_name": "AEGS_Sabre_Comet"
+  },
+  {
+    "name": "Aegis Sabre Firebird",
+    "class_name": "AEGS_Sabre_Firebird"
+  },
+  {
+    "name": "Aegis Sabre Firebird Wikelo War Special",
+    "class_name": "AEGS_Sabre_Firebird_Collector_Milt"
+  },
+  {
+    "name": "Aegis Sabre Peregrine",
+    "class_name": "AEGS_Sabre_Peregrine"
+  },
+  {
+    "name": "Aegis Sabre Peregrine Wikelo Speedy Special",
+    "class_name": "AEGS_Sabre_Peregrine_Collector_Competition"
+  },
+  {
+    "name": "Aegis Sabre Raven",
+    "class_name": "AEGS_Sabre_Raven"
+  },
+  {
+    "name": "Aegis Sabre Raven EX",
+    "class_name": "AEGS_Sabre_Raven_EX"
+  },
+  {
+    "name": "Aegis Tiburon",
+    "class_name": "AEGS_Tiburon"
+  },
+  {
+    "name": "Aegis Vanguard Warden",
+    "class_name": "AEGS_Vanguard"
+  },
+  {
+    "name": "Aegis Vanguard Harbinger",
+    "class_name": "AEGS_Vanguard_Harbinger"
+  },
+  {
+    "name": "Aegis Vanguard Hoplite",
+    "class_name": "AEGS_Vanguard_Hoplite"
+  },
+  {
+    "name": "Aegis Vanguard Sentinel",
+    "class_name": "AEGS_Vanguard_Sentinel"
+  },
+  {
+    "name": "Anvil Arrow",
+    "class_name": "ANVL_Arrow"
+  },
+  {
+    "name": "Anvil Asgard",
+    "class_name": "ANVL_Asgard"
+  },
+  {
+    "name": "Anvil Asgard Wikelo War Special",
+    "class_name": "ANVL_Asgard_Collector_Military"
+  },
+  {
+    "name": "Anvil Ballista",
+    "class_name": "ANVL_Ballista"
+  },
+  {
+    "name": "Anvil Ballista Dunestalker",
+    "class_name": "ANVL_Ballista_Dunestalker"
+  },
+  {
+    "name": "Anvil Ballista Snowblind",
+    "class_name": "ANVL_Ballista_Snowblind"
+  },
+  {
+    "name": "Anvil C8 Pisces",
+    "class_name": "ANVL_C8_Pisces"
+  },
+  {
+    "name": "Anvil C8R Pisces Rescue",
+    "class_name": "ANVL_C8R_Pisces"
+  },
+  {
+    "name": "Anvil C8X Pisces Expedition",
+    "class_name": "ANVL_C8X_Pisces_Expedition"
+  },
+  {
+    "name": "Anvil Carrack",
+    "class_name": "ANVL_Carrack"
+  },
+  {
+    "name": "Anvil Carrack",
+    "class_name": "ANVL_Carrack_BIS2950"
+  },
+  {
+    "name": "Anvil Carrack Expedition",
+    "class_name": "ANVL_Carrack_Expedition"
+  },
+  {
+    "name": "Anvil Centurion",
+    "class_name": "ANVL_Centurion"
+  },
+  {
+    "name": "Anvil Gladiator",
+    "class_name": "ANVL_Gladiator"
+  },
+  {
+    "name": "Anvil Hawk",
+    "class_name": "ANVL_Hawk"
+  },
+  {
+    "name": "Anvil F7 Hornet Mk Wikelo",
+    "class_name": "ANVL_Hornet_F7_Mk2_Collector_Mod"
+  },
+  {
+    "name": "Anvil F7A Hornet Mk I",
+    "class_name": "ANVL_Hornet_F7A_Mk1"
+  },
+  {
+    "name": "Anvil F7A Hornet Mk II",
+    "class_name": "ANVL_Hornet_F7A_Mk2"
+  },
+  {
+    "name": "Hornet F7A Mk II PYAM Exec",
+    "class_name": "ANVL_Hornet_F7A_Mk2_Exec_Military"
+  },
+  {
+    "name": "Hornet F7A Mk II PYAM Exec",
+    "class_name": "ANVL_Hornet_F7A_Mk2_Exec_Stealth"
+  },
+  {
+    "name": "Anvil F7C Hornet Mk I",
+    "class_name": "ANVL_Hornet_F7C"
+  },
+  {
+    "name": "Anvil F7C Hornet Mk II",
+    "class_name": "ANVL_Hornet_F7C_Mk2"
+  },
+  {
+    "name": "Anvil F7C Hornet Wildfire Mk I",
+    "class_name": "ANVL_Hornet_F7C_Wildfire"
+  },
+  {
+    "name": "Anvil F7C-M Super Hornet Mk I",
+    "class_name": "ANVL_Hornet_F7CM"
+  },
+  {
+    "name": "Anvil F7C-M Hornet Heartseeker Mk I",
+    "class_name": "ANVL_Hornet_F7CM_Heartseeker"
+  },
+  {
+    "name": "Anvil F7C-M Super Hornet Mk II",
+    "class_name": "ANVL_Hornet_F7CM_Mk2"
+  },
+  {
+    "name": "Anvil F7C-M Hornet Heartseeker Mk II",
+    "class_name": "ANVL_Hornet_F7CM_Mk2_Heartseeker"
+  },
+  {
+    "name": "Anvil F7C-R Hornet Tracker Mk I",
+    "class_name": "ANVL_Hornet_F7CR"
+  },
+  {
+    "name": "Anvil F7C-R Hornet Tracker Mk II",
+    "class_name": "ANVL_Hornet_F7CR_Mk2"
+  },
+  {
+    "name": "Anvil F7C-S Hornet Ghost Mk I",
+    "class_name": "ANVL_Hornet_F7CS"
+  },
+  {
+    "name": "Anvil F7C-S Hornet Ghost Mk II",
+    "class_name": "ANVL_Hornet_F7CS_Mk2"
+  },
+  {
+    "name": "Anvil Hurricane",
+    "class_name": "ANVL_Hurricane"
+  },
+  {
+    "name": "Anvil F8A Lightning",
+    "class_name": "ANVL_Lightning_F8"
+  },
+  {
+    "name": "Anvil F8C Lightning",
+    "class_name": "ANVL_Lightning_F8C"
+  },
+  {
+    "name": "Anvil F8C Lightning Wikelo War Special",
+    "class_name": "ANVL_Lightning_F8C_Collector_Military"
+  },
+  {
+    "name": "Anvil F8C Lightning Wikelo Sneak Special",
+    "class_name": "ANVL_Lightning_F8C_Collector_Stealth"
+  },
+  {
+    "name": "Anvil F8C Lightning Executive Edition",
+    "class_name": "ANVL_Lightning_F8C_Exec"
+  },
+  {
+    "name": "F8C Lightning PYAM Exec",
+    "class_name": "ANVL_Lightning_F8C_Exec_Military"
+  },
+  {
+    "name": "F8C Lightning PYAM Exec",
+    "class_name": "ANVL_Lightning_F8C_Exec_Stealth"
+  },
+  {
+    "name": "Anvil F8C Lightning",
+    "class_name": "ANVL_Lightning_F8C_Plat"
+  },
+  {
+    "name": "Anvil Paladin",
+    "class_name": "ANVL_Paladin"
+  },
+  {
+    "name": "Anvil Spartan",
+    "class_name": "ANVL_Spartan"
+  },
+  {
+    "name": "Anvil Terrapin",
+    "class_name": "ANVL_Terrapin"
+  },
+  {
+    "name": "Anvil Terrapin Medic",
+    "class_name": "ANVL_Terrapin_Medic"
+  },
+  {
+    "name": "Anvil Terrapin Medic Wikelo Savior Special",
+    "class_name": "ANVL_Terrapin_Medic_Collector_Medic"
+  },
+  {
+    "name": "Anvil Valkyrie",
+    "class_name": "ANVL_Valkyrie"
+  },
+  {
+    "name": "Anvil Valkyrie",
+    "class_name": "ANVL_Valkyrie_BIS2950"
+  },
+  {
+    "name": "Argo ATLS",
+    "class_name": "ARGO_ATLS"
+  },
+  {
+    "name": "Argo ATLS GEO",
+    "class_name": "ARGO_ATLS_GEO"
+  },
+  {
+    "name": "ATLS Snowland Color",
+    "class_name": "ARGO_ATLS_GEO_Collector_Grad01"
+  },
+  {
+    "name": "ATLS Orange Line",
+    "class_name": "ARGO_ATLS_GEO_Collector_Grad02"
+  },
+  {
+    "name": "ATLS Cool Metal Color",
+    "class_name": "ARGO_ATLS_GEO_Collector_Grad03"
+  },
+  {
+    "name": "Argo ATLS GEO IKTI",
+    "class_name": "ARGO_ATLS_GEO_IKTI"
+  },
+  {
+    "name": "Argo ATLS IKTI Akuma",
+    "class_name": "ARGO_ATLS_GEO_IKTI_NTLS"
+  },
+  {
+    "name": "Argo ATLS IKTI",
+    "class_name": "ARGO_ATLS_IKTI"
+  },
+  {
+    "name": "Argo ATLS IKTI Rad",
+    "class_name": "ARGO_ATLS_IKTI_ARGOS"
+  },
+  {
+    "name": "Argo CSV-SM",
+    "class_name": "ARGO_CSV_Cargo"
+  },
+  {
+    "name": "Argo MOLE",
+    "class_name": "ARGO_MOLE"
+  },
+  {
+    "name": "ARGO MOLE Alliance",
+    "class_name": "ARGO_MOLE_BTALA"
+  },
+  {
+    "name": "Argo MOTH",
+    "class_name": "ARGO_MOTH"
+  },
+  {
+    "name": "Argo MPUV Cargo",
+    "class_name": "ARGO_MPUV"
+  },
+  {
+    "name": "Argo MPUV Tractor",
+    "class_name": "ARGO_MPUV_1T"
+  },
+  {
+    "name": "Argo MPUV Personnel",
+    "class_name": "ARGO_MPUV_Transport"
+  },
+  {
+    "name": "Argo RAFT",
+    "class_name": "ARGO_RAFT"
+  },
+  {
+    "name": "Argo RAFT Wikelo Work Special",
+    "class_name": "ARGO_RAFT_Collector_Indust"
+  },
+  {
+    "name": "Argo SRV",
+    "class_name": "ARGO_SRV"
+  },
+  {
+    "name": "Banu Defender",
+    "class_name": "BANU_Defender"
+  },
+  {
+    "name": "C.O. HoverQuad",
+    "class_name": "CNOU_HoverQuad"
+  },
+  {
+    "name": "C.O. Mustang Alpha",
+    "class_name": "CNOU_Mustang_Alpha"
+  },
+  {
+    "name": "C.O. Mustang CitizenCon 2948 Edition",
+    "class_name": "CNOU_Mustang_Alpha_CitizenCon2018"
+  },
+  {
+    "name": "C.O. Mustang Beta",
+    "class_name": "CNOU_Mustang_Beta"
+  },
+  {
+    "name": "C.O. Mustang Delta",
+    "class_name": "CNOU_Mustang_Delta"
+  },
+  {
+    "name": "C.O. Mustang Gamma",
+    "class_name": "CNOU_Mustang_Gamma"
+  },
+  {
+    "name": "C.O. Mustang Omega",
+    "class_name": "CNOU_Mustang_Omega"
+  },
+  {
+    "name": "C.O. Nomad",
+    "class_name": "CNOU_Nomad"
+  },
+  {
+    "name": "Crusader Intrepid",
+    "class_name": "CRUS_Intrepid"
+  },
+  {
+    "name": "Crusader Intrepid Wikelo Work Special",
+    "class_name": "CRUS_Intrepid_Collector_Indust"
+  },
+  {
+    "name": "Crusader A1 Spirit",
+    "class_name": "CRUS_Spirit_A1"
+  },
+  {
+    "name": "Crusader C1 Spirit",
+    "class_name": "CRUS_Spirit_C1"
+  },
+  {
+    "name": "Crusader C1 Spirit Wikelo Special",
+    "class_name": "CRUS_Spirit_C1_Civilian"
+  },
+  {
+    "name": "Crusader Mercury Star Runner",
+    "class_name": "CRUS_Star_Runner"
+  },
+  {
+    "name": "Crusader Ares Star Fighter Inferno",
+    "class_name": "CRUS_Starfighter_Inferno"
+  },
+  {
+    "name": "Crusader Ares Star Fighter Inferno Wikelo War Special",
+    "class_name": "CRUS_Starfighter_Inferno_Collector_Military"
+  },
+  {
+    "name": "Crusader Ares Star Fighter Ion",
+    "class_name": "CRUS_Starfighter_Ion"
+  },
+  {
+    "name": "Crusader Ares Star Fighter Ion Wikelo Sneak Special",
+    "class_name": "CRUS_Starfighter_Ion_Collector_Stealth"
+  },
+  {
+    "name": "Crusader A2 Hercules Starlifter",
+    "class_name": "CRUS_Starlifter_A2"
+  },
+  {
+    "name": "Crusader A2 Hercules Starlifter Wikelo War Special",
+    "class_name": "CRUS_Starlifter_A2_Collector_Military"
+  },
+  {
+    "name": "Crusader C2 Hercules Starlifter",
+    "class_name": "CRUS_Starlifter_C2"
+  },
+  {
+    "name": "Crusader M2 Hercules Starlifter",
+    "class_name": "CRUS_Starlifter_M2"
+  },
+  {
+    "name": "Drake Buccaneer",
+    "class_name": "DRAK_Buccaneer"
+  },
+  {
+    "name": "Drake Caterpillar",
+    "class_name": "DRAK_Caterpillar"
+  },
+  {
+    "name": "Drake Caterpillar Pirate",
+    "class_name": "DRAK_Caterpillar_Pirate"
+  },
+  {
+    "name": "Drake Clipper",
+    "class_name": "DRAK_Clipper"
+  },
+  {
+    "name": "Drake Clipper Wikelo War Special",
+    "class_name": "DRAK_Clipper_Collector_Military"
+  },
+  {
+    "name": "Drake Command Module",
+    "class_name": "DRAK_Command_Module"
+  },
+  {
+    "name": "Drake Corsair",
+    "class_name": "DRAK_Corsair"
+  },
+  {
+    "name": "Corsair PYAM Exec",
+    "class_name": "DRAK_Corsair_Exec_Military"
+  },
+  {
+    "name": "Corsair PYAM Exec",
+    "class_name": "DRAK_Corsair_Exec_StealthIndustrial"
+  },
+  {
+    "name": "Drake Cutlass Black",
+    "class_name": "DRAK_Cutlass_Black"
+  },
+  {
+    "name": "Drake Cutlass Black",
+    "class_name": "DRAK_Cutlass_Black_BIS2950"
+  },
+  {
+    "name": "Cutlass Black PYAM Exec",
+    "class_name": "DRAK_Cutlass_Black_Exec_Military"
+  },
+  {
+    "name": "Cutlass Black PYAM Exec",
+    "class_name": "DRAK_Cutlass_Black_Exec_Stealth"
+  },
+  {
+    "name": "Drake Cutlass Blue",
+    "class_name": "DRAK_Cutlass_Blue"
+  },
+  {
+    "name": "Drake Cutlass Blue",
+    "class_name": "DRAK_Cutlass_Blue_BIS2950"
+  },
+  {
+    "name": "Drake Cutlass Red",
+    "class_name": "DRAK_Cutlass_Red"
+  },
+  {
+    "name": "Drake Cutlass Red",
+    "class_name": "DRAK_Cutlass_Red_BIS2950"
+  },
+  {
+    "name": "Drake Cutlass Steel",
+    "class_name": "DRAK_Cutlass_Steel"
+  },
+  {
+    "name": "Drake Cutter",
+    "class_name": "DRAK_Cutter"
+  },
+  {
+    "name": "Drake Cutter Rambler",
+    "class_name": "DRAK_Cutter_Rambler"
+  },
+  {
+    "name": "Drake Cutter Scout",
+    "class_name": "DRAK_Cutter_Scout"
+  },
+  {
+    "name": "Drake Dragonfly",
+    "class_name": "DRAK_Dragonfly"
+  },
+  {
+    "name": "Drake Dragonfly Star Kitten",
+    "class_name": "DRAK_Dragonfly_Pink"
+  },
+  {
+    "name": "Drake Dragonfly Yellowjacket",
+    "class_name": "DRAK_Dragonfly_Yellow"
+  },
+  {
+    "name": "Drake Golem",
+    "class_name": "DRAK_Golem"
+  },
+  {
+    "name": "Drake Golem Alliance",
+    "class_name": "DRAK_Golem_BTALA"
+  },
+  {
+    "name": "Drake Golem Wikelo Work Special",
+    "class_name": "DRAK_Golem_Collector_Indust"
+  },
+  {
+    "name": "Drake Golem OX",
+    "class_name": "DRAK_Golem_OX"
+  },
+  {
+    "name": "Drake Herald",
+    "class_name": "DRAK_Herald"
+  },
+  {
+    "name": "Drake Ironclad",
+    "class_name": "DRAK_Ironclad"
+  },
+  {
+    "name": "Drake Ironclad Assault",
+    "class_name": "DRAK_Ironclad_Assault"
+  },
+  {
+    "name": "Drake Mule",
+    "class_name": "DRAK_Mule"
+  },
+  {
+    "name": "Drake Pitbull",
+    "class_name": "DRAK_Pitbull"
+  },
+  {
+    "name": "Drake Vulture",
+    "class_name": "DRAK_Vulture"
+  },
+  {
+    "name": "Esperia Prowler",
+    "class_name": "ESPR_Prowler"
+  },
+  {
+    "name": "Esperia Prowler Utility",
+    "class_name": "ESPR_Prowler_Utility"
+  },
+  {
+    "name": "Esperia Prowler Utility Wikelo Work Special",
+    "class_name": "ESPR_Prowler_Utility_Collector_Indust"
+  },
+  {
+    "name": "Esperia Talon",
+    "class_name": "ESPR_Talon"
+  },
+  {
+    "name": "Esperia Talon Shrike",
+    "class_name": "ESPR_Talon_Shrike"
+  },
+  {
+    "name": "Gatac Railen",
+    "class_name": "GAMA_Railen"
+  },
+  {
+    "name": "Gatac Syulen",
+    "class_name": "GAMA_Syulen"
+  },
+  {
+    "name": "Syulen PYAM Exec",
+    "class_name": "GAMA_Syulen_Exec_Military"
+  },
+  {
+    "name": "Syulen PYAM Exec",
+    "class_name": "GAMA_Syulen_Exec_Stealth"
+  },
+  {
+    "name": "Gatac Tyilui",
+    "class_name": "GAMA_Tyilui"
+  },
+  {
+    "name": "Grey's Basher",
+    "class_name": "GLSN_Basher"
+  },
+  {
+    "name": "Grey's Shiv",
+    "class_name": "GLSN_Shiv"
+  },
+  {
+    "name": "Greycat MDC",
+    "class_name": "GRIN_MDC"
+  },
+  {
+    "name": "Greycat MTC",
+    "class_name": "GRIN_MTC"
+  },
+  {
+    "name": "Greycat PTV",
+    "class_name": "GRIN_PTV"
+  },
+  {
+    "name": "Greycat ROC",
+    "class_name": "GRIN_ROC"
+  },
+  {
+    "name": "Greycat ROC-DS",
+    "class_name": "GRIN_ROC_DS"
+  },
+  {
+    "name": "Greycat STV",
+    "class_name": "GRIN_STV"
+  },
+  {
+    "name": "Greycat UTV",
+    "class_name": "GRIN_UTV"
+  },
+  {
+    "name": "Kruger L-21 Wolf",
+    "class_name": "KRIG_L21_Wolf"
+  },
+  {
+    "name": "Kruger L-21 Wolf Wikelo War Special",
+    "class_name": "KRIG_L21_Wolf_Collector_Military"
+  },
+  {
+    "name": "Kruger L-21 Wolf Wikelo Sneak Special",
+    "class_name": "KRIG_L21_Wolf_Collector_Stealth"
+  },
+  {
+    "name": "Kruger L-22 Alpha Wolf",
+    "class_name": "KRIG_L22_AlphaWolf"
+  },
+  {
+    "name": "Kruger L-22 Alpha Wolf Wikelo War Special",
+    "class_name": "KRIG_L22_AlphaWolf_Collector_Military"
+  },
+  {
+    "name": "Kruger P-52 Merlin",
+    "class_name": "KRIG_P52_Merlin"
+  },
+  {
+    "name": "Kruger P-72 Archimedes",
+    "class_name": "KRIG_P72_Archimedes"
+  },
+  {
+    "name": "Kruger P-72 Archimedes Emerald",
+    "class_name": "KRIG_P72_Archimedes_Emerald"
+  },
+  {
+    "name": "Kruger S-65 Stingray",
+    "class_name": "KRIG_S65_Stingray"
+  },
+  {
+    "name": "Kruger S-65 Stingray",
+    "class_name": "KRIG_S65_Stingray_BALLISTIC"
+  },
+  {
+    "name": "MISC Fortune",
+    "class_name": "MISC_Fortune"
+  },
+  {
+    "name": "MISC Fortune Wikelo Special",
+    "class_name": "MISC_Fortune_Collector_Industrial"
+  },
+  {
+    "name": "MISC Freelancer",
+    "class_name": "MISC_Freelancer"
+  },
+  {
+    "name": "MISC Freelancer DUR",
+    "class_name": "MISC_Freelancer_DUR"
+  },
+  {
+    "name": "MISC Freelancer MAX",
+    "class_name": "MISC_Freelancer_MAX"
+  },
+  {
+    "name": "MISC Freelancer MIS",
+    "class_name": "MISC_Freelancer_MIS"
+  },
+  {
+    "name": "Mirai Fury",
+    "class_name": "MISC_Fury"
+  },
+  {
+    "name": "Mirai Fury LX",
+    "class_name": "MISC_Fury_LX"
+  },
+  {
+    "name": "Mirai Fury MX",
+    "class_name": "MISC_Fury_Miru"
+  },
+  {
+    "name": "MISC Hull A",
+    "class_name": "MISC_Hull_A"
+  },
+  {
+    "name": "MISC Hull B",
+    "class_name": "MISC_Hull_B"
+  },
+  {
+    "name": "MISC Hull C",
+    "class_name": "MISC_Hull_C"
+  },
+  {
+    "name": "MISC Prospector",
+    "class_name": "MISC_Prospector"
+  },
+  {
+    "name": "MISC Prospector Alliance",
+    "class_name": "MISC_Prospector_BTALA"
+  },
+  {
+    "name": "MISC Prospector Wikelo Work Special",
+    "class_name": "MISC_Prospector_Collector_Indust"
+  },
+  {
+    "name": "Mirai Razor",
+    "class_name": "MISC_Razor"
+  },
+  {
+    "name": "Mirai Razor EX",
+    "class_name": "MISC_Razor_EX"
+  },
+  {
+    "name": "Mirai Razor LX",
+    "class_name": "MISC_Razor_LX"
+  },
+  {
+    "name": "MISC Reliant Kore",
+    "class_name": "MISC_Reliant"
+  },
+  {
+    "name": "MISC Reliant Mako",
+    "class_name": "MISC_Reliant_Mako"
+  },
+  {
+    "name": "MISC Reliant Sen",
+    "class_name": "MISC_Reliant_Sen"
+  },
+  {
+    "name": "MISC Reliant Tana",
+    "class_name": "MISC_Reliant_Tana"
+  },
+  {
+    "name": "MISC Starfarer",
+    "class_name": "MISC_Starfarer"
+  },
+  {
+    "name": "MISC Starfarer Gemini",
+    "class_name": "MISC_Starfarer_Gemini"
+  },
+  {
+    "name": "MISC Starlancer MAX",
+    "class_name": "MISC_Starlancer_Max"
+  },
+  {
+    "name": "MISC Starlancer MAX Wikelo Work Special",
+    "class_name": "MISC_Starlancer_Max_Collector_Indust"
+  },
+  {
+    "name": "MISC Starlancer TAC",
+    "class_name": "MISC_Starlancer_TAC"
+  },
+  {
+    "name": "MISC Starlancer TAC Wikelo War Special",
+    "class_name": "MISC_Starlancer_TAC_Collector_Military"
+  },
+  {
+    "name": "MISC Starlite",
+    "class_name": "MISC_Starlite"
+  },
+  {
+    "name": "Mirai Guardian",
+    "class_name": "MRAI_Guardian"
+  },
+  {
+    "name": "Mirai Guardian Wikelo War Special",
+    "class_name": "MRAI_Guardian_Military"
+  },
+  {
+    "name": "Mirai Guardian MX",
+    "class_name": "MRAI_Guardian_MX"
+  },
+  {
+    "name": "Mirai Guardian MX Wikelo War Special",
+    "class_name": "MRAI_Guardian_MX_Collector_Military"
+  },
+  {
+    "name": "Mirai Guardian QI",
+    "class_name": "MRAI_Guardian_QI"
+  },
+  {
+    "name": "Mirai Guardian QI Wikelo Special",
+    "class_name": "MRAI_Guardian_QI_Collector_Indust"
+  },
+  {
+    "name": "Mirai Pulse",
+    "class_name": "MRAI_Pulse"
+  },
+  {
+    "name": "Mirai Pulse LX",
+    "class_name": "MRAI_Pulse_LX"
+  },
+  {
+    "name": "Origin 100i",
+    "class_name": "ORIG_100i"
+  },
+  {
+    "name": "Origin 125a",
+    "class_name": "ORIG_125a"
+  },
+  {
+    "name": "Origin 135c",
+    "class_name": "ORIG_135c"
+  },
+  {
+    "name": "Origin 300i",
+    "class_name": "ORIG_300i"
+  },
+  {
+    "name": "Origin 315p",
+    "class_name": "ORIG_315p"
+  },
+  {
+    "name": "Origin 325a",
+    "class_name": "ORIG_325a"
+  },
+  {
+    "name": "Origin 350r",
+    "class_name": "ORIG_350r"
+  },
+  {
+    "name": "Origin 400i",
+    "class_name": "ORIG_400i"
+  },
+  {
+    "name": "Origin 600i",
+    "class_name": "ORIG_600i"
+  },
+  {
+    "name": "Origin 600i 2951 BIS",
+    "class_name": "ORIG_600i_BIS2951"
+  },
+  {
+    "name": "Origin 600i Executive Edition",
+    "class_name": "ORIG_600i_Executive_Edition"
+  },
+  {
+    "name": "Origin 600i Touring",
+    "class_name": "ORIG_600i_Touring"
+  },
+  {
+    "name": "Origin 85X Limited",
+    "class_name": "ORIG_85X"
+  },
+  {
+    "name": "Origin 890 Jump",
+    "class_name": "ORIG_890Jump"
+  },
+  {
+    "name": "Origin M50 Interceptor",
+    "class_name": "ORIG_m50"
+  },
+  {
+    "name": "Origin M80",
+    "class_name": "ORIG_m80"
+  },
+  {
+    "name": "Origin X1",
+    "class_name": "ORIG_X1"
+  },
+  {
+    "name": "Origin X1 Force",
+    "class_name": "ORIG_X1_Force"
+  },
+  {
+    "name": "Origin X1 Velocity",
+    "class_name": "ORIG_X1_Velocity"
+  },
+  {
+    "name": "RSI Apollo Medivac",
+    "class_name": "RSI_Apollo_Medivac"
+  },
+  {
+    "name": "RSI Apollo Triage",
+    "class_name": "RSI_Apollo_Triage"
+  },
+  {
+    "name": "RSI Apollo Triage Wikelo Sneak Special",
+    "class_name": "RSI_Apollo_Triage_Collector_Stealth"
+  },
+  {
+    "name": "RSI Aurora Mk I CL",
+    "class_name": "RSI_Aurora_GS_CL"
+  },
+  {
+    "name": "RSI Aurora Mk I ES",
+    "class_name": "RSI_Aurora_GS_ES"
+  },
+  {
+    "name": "RSI Aurora Mk I LN",
+    "class_name": "RSI_Aurora_GS_LN"
+  },
+  {
+    "name": "RSI Aurora Mk I  LX",
+    "class_name": "RSI_Aurora_GS_LX"
+  },
+  {
+    "name": "RSI Aurora Mk I MR",
+    "class_name": "RSI_Aurora_GS_MR"
+  },
+  {
+    "name": "RSI Aurora Mk I SE",
+    "class_name": "RSI_Aurora_GS_SE"
+  },
+  {
+    "name": "RSI Aurora Mk II",
+    "class_name": "RSI_Aurora_Mk2"
+  },
+  {
+    "name": "RSI Constellation Mk IV Andromeda",
+    "class_name": "RSI_Constellation_Andromeda"
+  },
+  {
+    "name": "RSI Constellation Mk IV Andromeda",
+    "class_name": "RSI_Constellation_Andromeda_GS"
+  },
+  {
+    "name": "RSI Constellation Mk IV Andromeda",
+    "class_name": "RSI_Constellation_Andromeda_GS_Display"
+  },
+  {
+    "name": "RSI Constellation Mk IV Aquila",
+    "class_name": "RSI_Constellation_Aquila"
+  },
+  {
+    "name": "RSI Constellation Mk IV Aquila",
+    "class_name": "RSI_Constellation_Aquila_GS"
+  },
+  {
+    "name": "RSI Constellation Mk V Centaurus",
+    "class_name": "RSI_Constellation_Mk5_Centaurus"
+  },
+  {
+    "name": "RSI Constellation Mk V Centaurus",
+    "class_name": "RSI_Constellation_Mk5_Centaurus_Display"
+  },
+  {
+    "name": "RSI Constellation Mk IV Phoenix",
+    "class_name": "RSI_Constellation_Phoenix"
+  },
+  {
+    "name": "RSI Constellation Mk IV Phoenix Emerald",
+    "class_name": "RSI_Constellation_Phoenix_Emerald"
+  },
+  {
+    "name": "RSI Constellation Mk IV Phoenix",
+    "class_name": "RSI_Constellation_Phoenix_GS"
+  },
+  {
+    "name": "RSI Constellation Mk IV Taurus",
+    "class_name": "RSI_Constellation_Taurus"
+  },
+  {
+    "name": "RSI Constellation Mk IV Taurus",
+    "class_name": "RSI_Constellation_Taurus_GS"
+  },
+  {
+    "name": "RSI Constellation Mk IV Taurus Wikelo War Special",
+    "class_name": "RSI_Constellation_Taurus_GS_Military"
+  },
+  {
+    "name": "RSI Constellation Mk IV Taurus Wikelo War Special",
+    "class_name": "RSI_Constellation_Taurus_Military"
+  },
+  {
+    "name": "RSI Hermes",
+    "class_name": "RSI_Hermes"
+  },
+  {
+    "name": "RSI Lynx",
+    "class_name": "RSI_Lynx"
+  },
+  {
+    "name": "RSI Mantis",
+    "class_name": "RSI_Mantis"
+  },
+  {
+    "name": "RSI Meteor",
+    "class_name": "RSI_Meteor"
+  },
+  {
+    "name": "RSI Meteor PYAM Exec",
+    "class_name": "RSI_Meteor_Collector_Military"
+  },
+  {
+    "name": "RSI Meteor Wikelo Sneak Special",
+    "class_name": "RSI_Meteor_Collector_Stealth"
+  },
+  {
+    "name": "RSI Perseus",
+    "class_name": "RSI_Perseus"
+  },
+  {
+    "name": "RSI Polaris",
+    "class_name": "RSI_Polaris"
+  },
+  {
+    "name": "RSI Polaris",
+    "class_name": "RSI_Polaris_Collector_Military"
+  },
+  {
+    "name": "RSI Salvation",
+    "class_name": "RSI_Salvation"
+  },
+  {
+    "name": "RSI Scorpius",
+    "class_name": "RSI_Scorpius"
+  },
+  {
+    "name": "RSI Scorpius Antares",
+    "class_name": "RSI_Scorpius_Antares"
+  },
+  {
+    "name": "RSI Scorpius Wikelo Sneak Special",
+    "class_name": "RSI_Scorpius_Stealth"
+  },
+  {
+    "name": "RSI Skylark",
+    "class_name": "RSI_Skylark"
+  },
+  {
+    "name": "RSI Skylark",
+    "class_name": "RSI_Skylark_Display"
+  },
+  {
+    "name": "RSI Ursa Medivac",
+    "class_name": "RSI_Ursa_Medivac"
+  },
+  {
+    "name": "RSI Ursa Medivac Wikelo Special",
+    "class_name": "RSI_Ursa_Medivac_Stealth"
+  },
+  {
+    "name": "RSI Ursa",
+    "class_name": "RSI_Ursa_Rover"
+  },
+  {
+    "name": "RSI Ursa Fortuna",
+    "class_name": "RSI_Ursa_Rover_Emerald"
+  },
+  {
+    "name": "RSI Zeus Mk II CL",
+    "class_name": "RSI_Zeus_CL"
+  },
+  {
+    "name": "RSI Zeus Mk II CL",
+    "class_name": "RSI_Zeus_CL_Collector_Indust"
+  },
+  {
+    "name": "RSI Zeus Mk II ES",
+    "class_name": "RSI_Zeus_ES"
+  },
+  {
+    "name": "RSI Zeus Mk II ES Wikelo Work Special",
+    "class_name": "RSI_Zeus_ES_Collector_Indust"
+  },
+  {
+    "name": "Tumbril Cyclone",
+    "class_name": "TMBL_Cyclone"
+  },
+  {
+    "name": "Tumbril Cyclone AA",
+    "class_name": "TMBL_Cyclone_AA"
+  },
+  {
+    "name": "Tumbril Cyclone MT",
+    "class_name": "TMBL_Cyclone_MT"
+  },
+  {
+    "name": "Tumbril Cyclone RC",
+    "class_name": "TMBL_Cyclone_RC"
+  },
+  {
+    "name": "Tumbril Cyclone RN",
+    "class_name": "TMBL_Cyclone_RN"
+  },
+  {
+    "name": "Tumbril Cyclone TR",
+    "class_name": "TMBL_Cyclone_TR"
+  },
+  {
+    "name": "Tumbril Nova",
+    "class_name": "TMBL_Nova"
+  },
+  {
+    "name": "Tumbril Storm",
+    "class_name": "TMBL_Storm"
+  },
+  {
+    "name": "Tumbril Storm AA",
+    "class_name": "TMBL_Storm_AA"
+  },
+  {
+    "name": "Esperia Blade",
+    "class_name": "VNCL_Blade"
+  },
+  {
+    "name": "Esperia Glaive",
+    "class_name": "VNCL_Glaive"
+  },
+  {
+    "name": "Vanduul Mauler Destroyer",
+    "class_name": "VNCL_Mauler"
+  },
+  {
+    "name": "Vanduul Scythe",
+    "class_name": "VNCL_Scythe"
+  },
+  {
+    "name": "Esperia Stinger",
+    "class_name": "VNCL_Stinger"
+  },
+  {
+    "name": "Aopoa Nox",
+    "class_name": "XIAN_Nox"
+  },
+  {
+    "name": "Aopoa Nox Wikelo Special",
+    "class_name": "XIAN_Nox_Collector_Mod"
+  },
+  {
+    "name": "Aopoa Nox Kue",
+    "class_name": "XIAN_Nox_Kue"
+  },
+  {
+    "name": "Aopoa Khartu-al",
+    "class_name": "XIAN_Scout"
+  },
+  {
+    "name": "Aopoa San'tok.yāi",
+    "class_name": "XNAA_SanTokYai"
+  }
+]

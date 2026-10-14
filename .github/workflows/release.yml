@@ -1,0 +1,36 @@
+name: Windows release
+on:
+  push:
+    tags: ["v*"]
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  package:
+    runs-on: windows-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: dtolnay/rust-toolchain@stable
+      - run: cargo test --locked
+      - run: cargo build --locked --release
+      - name: Package portable application
+        shell: pwsh
+        run: |
+          New-Item -ItemType Directory -Path package
+          Copy-Item target/release/star-citizen-rich-presence.exe,scrp.example.toml,README.md,VALIDATION.md,RELEASE_NOTES.md,LICENSE,data/content-source.json package/
+          Compress-Archive -Path package/* -DestinationPath star-citizen-rich-presence-windows-x64.zip
+          (Get-FileHash star-citizen-rich-presence-windows-x64.zip -Algorithm SHA256).Hash.ToLower() + '  star-citizen-rich-presence-windows-x64.zip' | Set-Content SHA256SUMS.txt
+      - uses: actions/upload-artifact@v4
+        with:
+          name: portable-windows-x64
+          path: |
+            star-citizen-rich-presence-windows-x64.zip
+            SHA256SUMS.txt
+      - uses: softprops/action-gh-release@v2
+        if: startsWith(github.ref, 'refs/tags/')
+        with:
+          files: |
+            star-citizen-rich-presence-windows-x64.zip
+            SHA256SUMS.txt

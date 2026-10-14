@@ -1,0 +1,16 @@
+<2026-10-14T16:00:00.000Z> Log started on Wed Oct 14 17:00:00 2026
+<2026-10-14T16:00:01.000Z> [Notice] <Legacy login response> [CIG-net] User Login Success - Handle[TestPilot]
+<2026-10-14T16:00:02.000Z> [Notice] <SeedingProcessor::SeedGameRulesAndMode Success> shardId[local_shard], GameMode[SC_Frontend], MegaMap[MegaMap.Frontend]
+<2026-10-14T16:00:03.000Z> [Notice] <[GameRules] GameRulesActionEvent_GameModeCreated> Game mode created
+<2026-10-14T16:00:04.000Z> [Notice] <Channel Disconnected> gamerules="SC_Frontend" hostType="GameClient"
+<2026-10-14T16:00:05.000Z> ============ Loading level megamap ============
+<2026-10-14T16:00:06.000Z> [Notice] <[GameRules] GameRulesActionEvent_GameModeCreated> Game mode created
+<2026-10-14T16:00:07.000Z> [Notice] <RequestLocationInventory> Player[OtherPilot] requested inventory for Location[Stanton4_NewBabbage]
+<2026-10-14T16:00:08.000Z> [Notice] <RequestLocationInventory> Player[TestPilot] requested inventory for Location[Stanton1_Lorville] [Team_CoreGameplayFeatures][Inventory]
+<2026-10-14T16:00:09.000Z> [Notice] <SHUDEvent_OnNotification> Added notification "You have joined channel 'Anvil F7C-M Super Hornet Mk II : TestPilot'."
+<2026-10-14T16:00:10.000Z> [Notice] <SHUDEvent_OnNotification> Added notification "Contract Accepted:  Combat Gauntlet - Scenario #5:
+<2026-10-14T16:00:11.000Z> [Notice] <Player Selected Quantum Target - Local> [ItemNavigation][CL][1] | NOT AUTH | ANVL_Hornet_F7CM_Mk2_123[123]|CSCItemNavigation::OnPlayerSelectedQuantumTarget|Player has selected point Area18_City_objectContainer as their destination, routing locally [Team_CGP4][QuantumTravel]
+<2026-10-14T16:00:12.000Z> [Notice] <Quantum Drive Arrived - Arrived at Final Destination> [ItemNavigation][CL][1] | NOT AUTH | ANVL_Hornet_F7CM_Mk2_123[123]|CSCItemNavigation::OnQuantumDriveArrived|Quantum Drive has arrived at final destination [Team_CGP4][QuantumTravel]
+<2026-10-14T16:00:13.000Z> [Notice] <SHUDEvent_OnNotification> Added notification "Contract Complete: Combat Gauntlet - Scenario #5:
+<2026-10-14T16:00:14.000Z> [Notice] <RequestLocationInventory> Player[TestPilot] requested inventory for Location[RR_HUR_LEO] [Team_CoreGameplayFeatures][Inventory]
+<2026-10-14T16:00:15.000Z> [Notice] <SHUDEvent_OnNotification> Added notification "You have left the channel 'Anvil F7C-M Super Hornet Mk II : TestPilot'."

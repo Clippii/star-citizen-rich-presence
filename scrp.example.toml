@@ -1,0 +1,26 @@
+# Copy to scrp.toml beside the executable. All settings are optional.
+# The application only reads Game.log. It never changes user.cfg or captures the screen.
+
+channel = "LIVE" # LIVE, PTU, EPTU, TECH-PREVIEW
+discord_app_id = "983874700440645672"
+poll_seconds = 2
+update_seconds = 15
+location_ttl_seconds = 900 # expire the last reported location after 15 minutes
+show_profile = true
+show_contracts = true
+show_notifications = true # short-lived blueprint, refinery, and hangar notices
+
+# Override automatic discovery for a custom installation.
+# Windows paths use single quotes in TOML so backslashes stay literal.
+# log_path = 'D:\Games\StarCitizen\LIVE\Game.log'
+
+# Add/override location aliases without rebuilding. See data/locations.json for the schema.
+# locations_file = 'my-locations.json'
+
+# Image keys must already exist in the selected Discord application's Rich Presence assets.
+# The default is the original application's "logo". New locations have text support
+# without depending on unavailable Pyro/Nyx artwork in that application.
+[image_assets]
+# "Area18" = "area18"
+# "Hurston" = "hurston"
+# "Levski" = "levski"

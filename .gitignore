@@ -25,3 +25,9 @@ go.work
 
 # Test images
 *.png
+
+# Rust builds and local settings
+/target/
+/dist/
+/scrp.toml
+*.zip
